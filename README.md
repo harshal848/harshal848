@@ -6,7 +6,7 @@
 - 📫 How to reach me: ... pharshal848@gmail.com
   <p>
   <a href="www.linkedin.com/in/harshal-patil-dev848"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.hackerrank.com/harshal848?hr_r=1"><img src="hhttps://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg" /></a>
+    <a href="https://www.hackerrank.com/harshal848?hr_r=1"><img src="https://img.shields.io/badge/hackerrank-%230077B5.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 </p>
   <h4> 🔭<samp> Tech Stack</samp></h4>
   <p >
