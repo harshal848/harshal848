@@ -16,6 +16,8 @@
  <img src="https://img.shields.io/badge/Bootstrap%20-%23e34f26.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/php%20-%23F7DF1E.svg?&style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/laravel%20-%23e34f26.svg?&style=for-the-badge&logo=laravel&logoColor=white" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/mysql%20-%231572B6.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/postgresql%20-%231572B6.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Git%20-%23e34f26.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
 
  </p>
