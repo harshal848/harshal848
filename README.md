@@ -13,14 +13,7 @@
  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
-<!--  <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/react%20redux%20-%23c21325.svg?&style=for-the-badge&logo=redux&logoColor=white" /> -->
-<!--    <img src="https://img.shields.io/badge/mongodb%20-%23e34f26.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
-   <img src="https://img.shields.io/badge/nodejs%20-%23e34f26.svg?&style=for-the-badge&logo=nodejs&logoColor=white" />
-   <img src="https://img.shields.io/badge/Git%20-%23e34f26.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Bootstrap%20-%23e34f26.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp; -->
-<!--  <img src="https://img.shields.io/badge/mongodb%20-%23e34f26.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
- <img src="https://img.shields.io/badge/nodejs%20-%23e34f26.svg?&style=for-the-badge&logo=nodejs&logoColor=white" /> -->
+  <img src="https://img.shields.io/badge/php%20-%23F7DF1E.svg?&style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Git%20-%23e34f26.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Bootstrap%20-%23e34f26.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
 
