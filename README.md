@@ -1,8 +1,6 @@
 # Hi, I'm Harshal Patil 👋👨🏻‍💻 
-- 🔭 I’m currently working on ...Web Development
-- 🌱 I’m currently learning ... Vue.js
-- 👯 I’m looking to collaborate on ... React.js
-- 🤔 I’m looking for help with ... Node.js
+- 🔭 I’m a passionate Web Developer
+- 🌱 Welocome to my Github profile
 - 📫 How to reach me: ... pharshal848@gmail.com
   <p>
   <a href="www.linkedin.com/in/harshal-patil-dev848"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
